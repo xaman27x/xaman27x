@@ -5,21 +5,6 @@
 
 I'm a Computer Science & Data Science student passionate about building innovative solutions and exploring new technologies.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xaman27x&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaman27x&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaman27x&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🎓 Education
-
-- 🎓 B.Tech in Computer Science and Engineering @ COEP Technological University (2023-2027)
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -68,6 +53,18 @@ I'm a Computer Science & Data Science student passionate about building innovati
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="unix" width="40" height="40"/>
 </p>
 
+
+## 📊 Profile Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xaman27x&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaman27x&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaman27x&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ## 📫 Get in Touch
 
 - Email: [amorghade.10@gmail.com](mailto:amorghade.10@gmail.com)
@@ -75,7 +72,3 @@ I'm a Computer Science & Data Science student passionate about building innovati
 - ResearchGate: [Aman-Morghade](https://researchgate.net/profile/Aman-Morghade)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xaman27x&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>

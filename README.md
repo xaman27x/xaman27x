@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amanmorghade)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-green?style=flat&logo=researchgate)](https://researchgate.net/profile/Aman-Morghade)
 
-I'm a Computer Science & Data Science student passionate about building innovative solutions and exploring new technologies.
+I'm a Computer Science student passionate about building innovative solutions and exploring new technologies.
 
 ## 🛠️ Tech Stack
 
